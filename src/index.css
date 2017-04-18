@@ -1,0 +1,114 @@
+body {
+ 
+  background: #212121;
+}
+
+.chartWrapper{
+  background: #414141 !important;
+  position: relative;
+  color: white !important;
+ 
+  margin-top: 5px;
+  margin-bottom: 5px;
+  max-height: 1000px;
+  min-height: 200px;
+  width:100%;
+ 
+}
+
+.trackingList{
+  background: #265784 !important;
+}
+
+.section-header{
+  background: #2496ee !important;
+  border: none !important;
+  color: #EEEEEE !important;
+  
+}
+
+
+.section-background{
+  background: #424242 !important;
+  color:white !important;
+  border: none;
+}
+
+.form{
+  background: #212121 !important;
+  color: white !important;
+}
+input{
+  background: #424242 !important;
+}
+textarea{
+  background: #424242 !important;
+  color: #E0E0E0 !important;;
+}
+
+.form>button{
+  background: #64b734 !important;
+}
+.btn{
+  background: #d55a49 !important;
+}
+.field>label{
+  color: #E0E0E0 !important;;
+}
+
+.field>input{
+  color: #E0E0E0 !important;;
+}
+
+.full {
+  height: 100%;
+  width: 100%;
+}
+
+.whiteIcon{
+  color:white
+}
+
+.main{
+  background: blue;
+  margin-left:auto;
+  margin-right:auto;
+}
+.test{
+  background:darkslategray;
+  height: 700px;
+}
+
+.red-bg{
+  background-color: red;
+  
+}
+
+.blue-bg {
+  background-color: blue ;
+ 
+}
+
+.right-algn{
+  position: absolute;
+  right: 10px;
+  top: 57px;
+  display: inline;
+}
+
+.close-btn{
+  position: absolute;
+  right:10px;
+  top:10px;
+}
+
+
+.padded-grid{
+  padding: 2% !important;
+}
+
+.widget-container{
+  background: #424242 !important;
+  margin-top: 10px;
+  padding: 10px;
+}
